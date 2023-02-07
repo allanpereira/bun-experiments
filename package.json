@@ -1,0 +1,1 @@
+{ "dependencies": { "@types/node": "^18.13.0", "bun-types": "^0.5.4", "graphql": "^16.6.0", "graphql-request": "^5.1.0" } }
